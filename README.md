@@ -1,4 +1,6 @@
 ## Important Note
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fzorianix%2Fsquiggly.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fzorianix%2Fsquiggly?ref=badge_shield)
+
 
 As of version 1.3.2, the preferred way to specify nested filters is to use square brackets intead of braces.
 
@@ -778,3 +780,6 @@ public class TestSerializer extends JsonSerializer<TestObject> {
 	}
 }
 ```
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fzorianix%2Fsquiggly.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fzorianix%2Fsquiggly?ref=badge_large)
